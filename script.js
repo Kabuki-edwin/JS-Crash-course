@@ -34,3 +34,4 @@ console.log(s.substring(0, 5).toUpperCase())
 
 //the .push() method- used to add items to the end of an array.
 //the .unshift() array method-used to add items at the start of an array.
+// the .pop() array method - used to remove items from the end of an array.
