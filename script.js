@@ -17,4 +17,15 @@ console.log('My name is ' + name + ' and I am ' + age + ' years old');
 
 //You can also use the template string
 
-console.log(`My name is ${name} and I am ${age} years old.`)
+console.log(`My name is ${name} and I am ${age} years old.`);
+
+//String proprties and methods
+//properties
+const s = 'Hello world ';
+
+console.log(s.length);
+
+//methods.All methods have a parenthesis.
+console.log(s.toUpperCase())
+console.log(s.substring(0, 5))
+console.log(s.substring(0, 5).toUpperCase())
