@@ -30,4 +30,7 @@ console.log(s.toUpperCase())
 console.log(s.substring(0, 5))
 console.log(s.substring(0, 5).toUpperCase())
 
-//Arrays - are varibles thaat hold multiple valies
+//Arrays - are varibles that hold multiple values.They are also zero based.
+
+//the .push() method- used to add items to the end of an array.
+//the .unshift() array method-used to add items at the start of an array.
