@@ -29,3 +29,5 @@ console.log(s.length);
 console.log(s.toUpperCase())
 console.log(s.substring(0, 5))
 console.log(s.substring(0, 5).toUpperCase())
+
+//Arrays - are varibles thaat hold multiple valies
